@@ -1,0 +1,28 @@
+{
+  "files.exclude": {
+    "**/.dart_tool": true,
+    "**/.idea": true,
+    "**/build": true,
+    "**/android": true,
+    "**/ios": true,
+    "**/linux": true,
+    "**/macos": true,
+    "**/web": true,
+    "**/windows": true,
+    "**/.git": true,
+    "**/.flutter-plugins": true,
+    "**/.flutter-plugins-dependencies": true,
+    "**/*.iml": true,
+    "**/.metadata": true,
+    "**/pubspec.lock": true,
+    "**/test": true,
+    ".gitignore": true,
+    "analysis_options.yaml": true,
+    "devtools_options.yaml": true,
+    "**/lib": false,
+  },
+  "cSpell.words": [
+    "Shabnam",
+    "ارسال"
+  ]
+}
